@@ -1,0 +1,7 @@
+.DS_Store
+.idea
+.temp
+*.log
+components.d.ts
+dist
+node_modules
